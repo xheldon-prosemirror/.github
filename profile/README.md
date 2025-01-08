@@ -1,3 +1,11 @@
+## 2025 update
+
+我使用了 AI + 人工纠正的方式实现了一种自动翻译的机制，可以在原始仓库有任何变动后自动使用 AI 翻译后发布。
+
+仓库见：[https://github.com/Xheldon/prosemirror-cn-website](https://github.com/Xheldon/prosemirror-cn-website) 最终构建地址为：[https://prosemirror.xheldon.com](https://prosemirror.xheldon.com)
+
+本项目地址移动到：[https://prosemirror-old.xheldon.com](https://prosemirror-old.xheldon.com)
+
 ## Hi there 👋
 
 本仓库初始目的是汉化 Prosemirror 的全部文档，包括官网的各种示例和说明。
